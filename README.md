@@ -1,2 +1,2 @@
-# C_lang
-my projects
+# string.h
+our realizacia of C-lib string.h
