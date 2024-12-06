@@ -5,7 +5,7 @@ hFiles = $(wildcard *.h)
 
 all: clang str
 
-reb: clang clean s2tr
+reb: clang clean str
 
 str:
 	$(gcc) string.c -o str
